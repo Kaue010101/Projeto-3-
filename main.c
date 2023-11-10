@@ -1,5 +1,3 @@
-//Matheus Concon de Oliveira (RA 24.123.033-3)
-//Kaue Vieira Lima (RA 24.123.076-2)
 #include "proj.h"
 #include <stdio.h>
 
