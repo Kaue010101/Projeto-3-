@@ -22,3 +22,4 @@ int main() {
                 break;
             case 3:
                 deletarTarefa(tarefas, &numTarefas);// função para deletar uma tarefa
+                break;
