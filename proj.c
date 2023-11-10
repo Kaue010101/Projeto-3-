@@ -1,7 +1,3 @@
-//
-// Created by unifmatholiveira on 12/09/2023.
-//
-
 #include "proj.h"
 #include <stdio.h>
 int compararStrings(const char str1[], const char str2[]) {
